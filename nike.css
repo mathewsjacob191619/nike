@@ -1,0 +1,260 @@
+
+body{
+    margin: 0%;
+
+}
+
+.header1{
+    background-color: rgba(204, 204, 207, 0.769);
+    height: 160px;
+    width: 100%;
+
+}
+.header1 p{
+    margin: 0;
+    
+}
+.header1-text{
+
+    display: flex;
+    justify-content: right;
+    padding-top: 10px;
+    color: rgb(13, 13, 12);
+    font-weight: 400;
+    font-size:medium;
+    padding-right: 40px;
+    height: 27px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.find{
+    padding-right: 20px;  
+}
+.help{
+    padding-right: 20px;
+}
+.join{
+    padding-right: 20px;
+}
+.header2-text{
+    background-color: rgb(173, 181, 173);
+    height: 63px;
+}
+.image-tick{
+    width: 63px;
+}
+.tick{
+    width: 64px;
+    margin-left: 65px;
+    height: 63px;
+}
+.sections {
+    /* background-color: rgb(57, 61, 57); */
+    /* height: 63px; */
+    float: left;
+    padding-top: -17px;
+    margin-top: -40px;
+    margin-left: 452px;
+}
+ .men,.women,.kids,.customise,.sale,.snkrs{
+  text-decoration: none;
+  padding-left: 30px;
+  color: rgb(8, 8, 8);
+
+ }
+ .search-bar{
+    padding-left: 1050px;
+    padding-left: 1050px;
+    margin-top: -45px;
+ }
+ .search{
+    width: 200px;
+    height: 25px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(198, 223, 214);
+ }
+
+ .image1{
+    width: 100%;
+ }
+ .space1{
+    background-color: rgb(236, 233, 240);
+    height: 100px;
+    width: 100%;
+ }
+ .image2and3-container{
+display: flex;
+ }
+ .image2{
+width: 50%;
+ }
+ .image3{
+width: 50%;
+ }
+
+ .text-container{
+    height: 450px;
+    width: 100%;
+ }
+ .stay{
+    margin: 0;
+    text-align: center;
+    padding-top: 67px;
+    font-size: 86px;
+    font-family: fantasy;
+    color: rgb(55, 63, 72);
+
+ }
+ .every{
+    margin: 0;
+    text-align: center;
+    font-size: 86px;
+    font-family: fantasy;
+    color: rgb(55, 63, 72);
+
+ }
+ .focus{
+    margin: 0;
+    text-align: center;
+    font-family:sans-serif;
+    font-weight: 300;
+    color: rgb(30, 31, 32);
+ }
+
+ .button{
+    text-align: center;
+    padding-top: 60px;
+ }
+ .buttondesign{
+    background-color: rgb(25, 25, 28);
+    height: 45px;
+    width: 110px;
+    border-radius: 63px;
+    color: floralwhite;
+    border: none;
+ }
+
+ .image7{
+    width: 100%;
+
+ }
+    
+    
+ .text-container2{
+    height: 400px;
+    width: 100%;
+ }
+ .more{
+    margin: 0;
+    text-align: center;
+    padding-top: 67px;
+    font-size: 86px;
+    font-family: fantasy;
+    color: rgb(55, 63, 72);
+
+ }
+ .precision{
+    margin: 0;
+    text-align: center;
+    font-size: 86px;
+    font-family: fantasy;
+    color: rgb(55, 63, 72);
+
+ }
+ .phantom{
+    margin: 0;
+    text-align: center;
+    font-family:sans-serif;
+    font-weight: 300;
+    color: rgb(30, 31, 32);
+ }
+
+ .button2{
+    text-align: center;
+    padding-top: 60px;
+ }
+ .buttondesign2{
+    background-color: rgb(13, 13, 13);
+    height: 45px;
+    width: 110px;
+    border-radius: 63px;
+    color: floralwhite;
+    border: none;
+ }
+
+ .footer{
+    width: 100%;
+    height: 280px;
+    background-color: rgb(80, 80, 73);
+    display: flex;
+ }
+ .footer-left{
+    width: 50%;
+    height: 300px;
+    display: flex;
+    color: aliceblue;
+
+ }
+ .footer-right{
+    width: 50%;
+    height: 300px;
+ }
+
+ .find-store{
+    width: 50%;
+    height: 300px;
+    font-weight: 100;
+    font-family:sans-serif ;
+    word-spacing: -2px;
+    font-size: 14px;
+    
+ }
+ .get-help{
+    width: 50%;
+    height: 300px;
+    font-family:sans-serif ;
+    font-size:14px ;
+
+ }
+ .about-nike{
+    width: 50%;
+    height: 300px;
+    font-family:sans-serif ;
+    font-size: 14px;
+
+ }
+
+.twiter{
+    padding-left: 455px;
+    /* background-color: antiquewhite; */
+
+}
+.facebook{
+    padding-left: 15px;
+    /* background-color: antiquewhite; */
+
+
+}
+.youtube{
+    padding-left: 15px;
+    /* background-color: aquamarine; */
+
+
+}
+.insta{
+    padding-left: 15px;
+    /* background-color: antiquewhite; */
+
+}
+
+ /* background-color: aqua; */
+ /* height: 63px; */
+ /* margin-left: 538px; */
+ /* margin-right: 510px; */
+ /* text-align: center; */
+ /* float: left; */
+  /* text-align: center;  */
+ 
+
+  
